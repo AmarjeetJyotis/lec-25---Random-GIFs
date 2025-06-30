@@ -34,6 +34,25 @@ A fun and interactive React application that allows users to generate **random G
 
 ---
 
+---
+
+## 🧑‍💻 Author
+
+**Amarjeet Kumar**  
+**UID:** 21BCS10768  
+**Department of Computer Science & Engineering**  
+**Chandigarh University**
+
+**Portfolio:** [https://amarjeetkr.vercel.app/](https://amarjeetkr.vercel.app/)  
+**LinkTree:** [https://linktr.ee/AmarjeetKumarJyotish](https://linktr.ee/AmarjeetKumarJyotish)  
+**GitHub:** [https://github.com/AmarjeetJyotis](https://github.com/AmarjeetJyotis)  
+**LinkedIn:** [https://www.linkedin.com/in/amarjeet-jyotish/](https://www.linkedin.com/in/amarjeet-jyotish/)  
+**GeeksforGeeks:** [https://www.geeksforgeeks.org/user/amarjeetjyotish/](https://www.geeksforgeeks.org/user/amarjeetjyotish/)  
+**LeetCode:** [https://leetcode.com/u/AmarjeetJyotish/](https://leetcode.com/u/AmarjeetJyotish/)
+
+
+---
+
 ## 📦 Installation and Setup
 
 Follow these steps to run the project locally:
@@ -78,10 +97,6 @@ random-gif-generator/
 ├── .env
 ├── package.json
 └── README.md
-👨‍💻 Author
-Amarjeet Kumar
-📍 CSE Final Year | Chandigarh University
-🔗 Linktree
 
 📄 License
 This project is licensed under the MIT License.
@@ -93,9 +108,3 @@ Built as a learning project to demonstrate API integration and dynamic rendering
 
 📬 Feedback
 If you have any suggestions or issues, feel free to open an issue or a pull request. Contributions are always welcome!
-
-vbnet
-Copy
-Edit
-
-Let me know if you’d like a dark mode toggle, infinite scroll, or search functionality added to this project.
